@@ -1,4 +1,4 @@
 # hello-world
 Tutorial repository.
 
-I'm a student of data analysis and new to Github.
+I'm a student of data analysis and new to GitHub.
